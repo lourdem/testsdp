@@ -1,7 +1,5 @@
 Lourdes Montoya
 lmontoya9@gatech.edu
-<<<<<<< HEAD
 6300Fall24<lmontoya9>
-=======
 Fall 2024
->>>>>>> b36c55c85e003f76fb6858c0d2fcb92c4874643b
+Temo change
